@@ -1,0 +1,25 @@
+/* * {
+    background-color: bisque;
+} */
+
+
+.judul2{
+    padding-top: 20vh;
+    text-align: center;
+}
+
+.cardkonten{
+    padding: 10vh 15vh;
+    justify-content: space-around;
+}
+
+.cardaspirasi{
+    height: 40vh;
+    width: 40vh;
+    background-color: #AFD3E2;
+    margin-top: 5vh;
+}
+
+.kolom-isi{
+    color: black;
+}

@@ -1,0 +1,69 @@
+.navbar{
+    background-color:#002B5B ;
+}
+
+.logobem {
+    height: 45vh;
+    width: 35vh;
+    padding: 80px 0px 20px 40px;
+    text-align: right;
+    margin-left: 40vh;
+}
+
+.teks1 {
+    font-size: small ;
+}
+
+.teks2 {
+    font-size: large;
+}
+
+.teks3{
+    font-size: large;
+}
+
+.section-2{
+    background-color:#8FA597;
+    height: 30vh;
+    color: white;
+}
+
+.section-2 p{
+    font-size: 25px;
+    text-align: center;
+    padding-top: 10vh;
+}
+
+.button1{
+    margin-top: 15px;
+    margin-left: 95vh;
+}
+
+.footer{
+    background-color: #002B5B;
+}
+
+.creator{
+    color: white;
+    padding-top: 10px;
+}
+
+#sosmed{
+    padding-left: 75vh;
+}
+
+.github{
+    color: white;
+    font-size: 30px;
+    padding-right: 10px;
+}
+
+.ld{
+    color: white;
+    font-size: 30px;
+}
+
+.ig{
+    color: white;
+    font-size: 30px;
+}
