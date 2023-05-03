@@ -2,7 +2,7 @@ import React from "react";
 import { Layout, Menu, theme, Button } from "antd";
 import { Col, Row } from "antd";
 import logo from "../../assets/logo-bem.jpeg";
-import "../landingpage/landingPage.css";
+import "./landingPage.css";
 import {
   LinkedinOutlined,
   GithubOutlined,

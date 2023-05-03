@@ -1,7 +1,7 @@
 import { Layout } from "antd";
-import Footer from "./footer/Footer";
+import Footer from "./footer/Footers";
 import Header from "./header/Header";
-import "./layout.css";
+
 
 const LayoutComponent = ({ children }) => {
   const { Content } = Layout;

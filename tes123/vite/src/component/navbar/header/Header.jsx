@@ -1,6 +1,6 @@
 import { Menu, Layout, Row } from "antd";
 import React, { useState } from "react";
-import { MENU_ITEM } from "../constants";
+import { MENU_ITEM } from "../Constant";
 import { Link } from "react-router-dom";
 
 
